@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-📷[preview](./images/indexprint.png)
+📷 ![preview](./images/indexprint.png)
 
 ### Links
 
