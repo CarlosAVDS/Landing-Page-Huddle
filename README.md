@@ -24,9 +24,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Font Awesome](https://fontawesome.com/) - For icons
 
 
@@ -37,4 +34,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@CarlosAVDS](https://www.frontendmentor.io/profile/CarlosAVDS)
