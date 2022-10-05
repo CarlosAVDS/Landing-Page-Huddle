@@ -13,11 +13,11 @@ Users should be able to:
 
 ### Screenshot
 
-![preview](./images/indexprint.png)
+📷[preview](./images/indexprint.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+🔗 Live Site URL: (https://carlosavds.github.io/Landing-Page-Huddle/)
 
 
 ### Built with
