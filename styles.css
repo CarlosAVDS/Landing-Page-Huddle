@@ -71,6 +71,7 @@ nav img{
 .sec p{
     padding-right: 40px;
     margin: 25px 0;
+    color: hsl(208, 11%, 55%);
 }
 
 .sec button{
@@ -111,6 +112,7 @@ nav img{
 
 .content p{
     max-width: 85%;
+    color: hsl(208, 11%, 55%);
 }
 
 .promo-card{
@@ -211,9 +213,7 @@ li{
     padding: 0px 7px;
 }
 
-.attribution,
-.attribution a,
-.copy{
+.attribution{
     text-decoration: none;
     text-align: right;
     opacity: 0.9;
@@ -286,6 +286,7 @@ li{
     .promo-card button{
         padding: 15px 60px;
         font-size: 16px;
+        margin-top: -10px;
     }
 
     footer{
@@ -314,6 +315,7 @@ li{
 
     a{
         margin-left: 0px;
+        color:#FFF;
     }
 
     .sec-4{
@@ -323,10 +325,39 @@ li{
         margin-bottom: -25px;
     }
 
-    .attribution,
-    .copy{
+    .attribution{
         width: 100%;
         text-align: center;
         opacity: 0.9;
     }
+}
+
+@media (max-width:552px){
+
+    nav img,
+    .footer-logo{
+        width: 150px;
+        height: 25px;
+    }
+
+    nav buttom{
+        padding: 8px 20px !important;
+    }
+
+    h1{
+        font-size: 28px !important;
+    }
+
+    h2{
+        font-size: 22px !important;
+    }
+
+    .btn2{
+        padding: 15px 30px !important;
+        font-size: 14px !important;
+    }
+
+    .promo-card{
+        text-align: center;
+    } 
 }
